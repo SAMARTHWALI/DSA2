@@ -1,3 +1,4 @@
+/*program to find the area of tringle*/
 import java.util.Scanner;
 class Tri{
 	public static void main(String[] args) {
