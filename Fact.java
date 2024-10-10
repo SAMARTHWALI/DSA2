@@ -1,3 +1,4 @@
+/*program to find factorial of number*/
 import java.util.Scanner;
 class Fact{
 	public static void main(String[] args) {
