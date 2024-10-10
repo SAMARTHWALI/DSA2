@@ -1,3 +1,4 @@
+/*program to find the Hcf of two numbers*/
 import java.util.Scanner;
 
 public class Hcf {
