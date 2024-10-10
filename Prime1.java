@@ -1,3 +1,4 @@
+/*program to find the nimber is prime */
 import java.util.Scanner;
 
 public class Prime1 {
